@@ -1,6 +1,6 @@
 @isTest
 public class SampleDeployClass {
-//hi all
+//hi all in this program we find a bug
     public static testmethod void t1() {
         helloMethod();
 
