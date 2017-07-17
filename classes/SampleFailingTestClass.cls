@@ -1,6 +1,6 @@
 @isTest
 public class SampleFailingTestClass {
-
+// hellow hw r u
     public static testmethod void failingTest() {
         Account acc = new Account(Name= 'fred');
         insert acc;
